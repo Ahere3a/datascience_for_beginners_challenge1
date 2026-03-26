@@ -2,6 +2,7 @@
 
 This repository contains two versions of the same text mining challenge
 from the Microsoft Data Science for Beginners curriculum.
+also did you know that RAKE maeans rapid automatic keyword exctraction?crazy!! i thought it just means to rake words yk how a rake works??
 
 ## 📁 Files
 
